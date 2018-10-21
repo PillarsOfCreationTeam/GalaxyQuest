@@ -23,6 +23,8 @@ the analysis capabilities of citizen science to:
 - Help train a deep neural network for future automation.
 
 See a [full description](https://2018.spaceappschallenge.org/challenges/universe-beauty-and-wonder/shoulders-giants/teams/pillars-of-creation/project)
-in the Space Apps Challenge 2018 web. Explore this repo to see the prototype.
+in the Space Apps Challenge 2018 web. Explore this repo to see the mock-ups,
+and visit [this video](https://www.youtube.com/watch?v=Q6dMyW6hosI) to enjoy
+the animated prototype!
 
 ![Galaxy Quest](/../master/prototype/00.jpg?raw=true)
