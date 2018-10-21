@@ -27,4 +27,4 @@ in the Space Apps Challenge 2018 web. Explore this repo to see the mock-ups,
 and visit [this video](https://www.youtube.com/watch?v=Q6dMyW6hosI) to enjoy
 the animated prototype!
 
-![Galaxy Quest](/../master/prototype/00.jpg?raw=true)
+![Galaxy Quest](/../master/mocks/00.jpg?raw=true)
