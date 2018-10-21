@@ -24,3 +24,5 @@ the analysis capabilities of citizen science to:
 
 See a [full description](https://2018.spaceappschallenge.org/challenges/universe-beauty-and-wonder/shoulders-giants/teams/pillars-of-creation/project)
 in the Space Apps Challenge 2018 web. Explore this repo to see the prototype.
+
+![Galaxy Quest](/../master/prototype/00.jpg?raw=true)
